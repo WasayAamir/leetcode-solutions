@@ -1,0 +1,27 @@
+so three iterations, i,j and k and making sure they dont equal to each other 
+
+do a set so the numbers are unique from each other and doesnt repeat
+
+make a empty list name is res 
+
+sort the numbers from least to greatest that way we simplify finding unique triplets
+
+making sure when i goes to the next number meaning when i > 0 so its on index 1 now and make sure a the value there is the value we just passed 
+
+on index 0 
+
+then its just two sum, we take a pointer at i + 1 so wherever i is the pointer will be one up of it i + 1 so thats the left pointer and the right pointer will be 
+
+all the way to the end thats the right pointer its len(nums) - 1
+
+then if the sum we get is greater than 0 decrease right pointer by 1, if its too less increase left pointer by 1 
+
+if nothing needs to be changed thats the else statement then get the sum of all the values and add it to the res 
+
+update the left pointer by l + 1 do a while loop for if the left pointer is on a number in the array adn the number before it is 
+
+the same and left pointer is still below right pointer skip over it go the next one 
+
+
+
+

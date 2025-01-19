@@ -1,0 +1,14 @@
+check n the size of it? check the range as they have to be [0,n]
+
+count from 0 all the way to n and check if the list contains every numbers from 0 to that n 
+
+example if the list is from [0,5] we run a loop and check if every number in the list exists like 1,2,3,4,5 (inclusive) 
+
+sort the array and iterate through it as we expect it to see the number in the array, [0,1,2,3] that is sorted when we iterate and it doesnt catch the "2" in the array
+
+it will return that number as the missing number 
+
+sorting it is good because the indices and the value are ALWAYS THE SAME as the range starts from [0,n] and indices start from 0 as well
+
+so when sorted indices and value should be the same number 
+

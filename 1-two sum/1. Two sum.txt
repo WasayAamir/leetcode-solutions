@@ -1,0 +1,20 @@
+from what i understand is this: in the list of numbers given we need to find the two numbers such that they add up to the target given 
+
+case 1 is 2,7,11, 15 and target is 9 so the two numbers that add up to 9 are 2 and 7 and their indices are [0,1] now say if the target was 17 the two numbers that add up 
+
+to it would be 2 and 15 and the indices would be [0,3], we cannot use the same element twice as well 
+
+
+we need to have two loops i think, i will loop checking and j will also be checking to see if the numbers its on add up to target
+
+the way they did it is they found the length of the list by doing n = len(nums)
+
+we do two loops to find pairs
+
+the outer loop in this case is i, it picks the first number 
+
+i doesn't choose the last element in the list at all because its the first number in the list, if it chose 15 then j wouldnt have any other number to make it a pair
+
+it only chooses or goes to numbers that has numbers after it to make a pair with J, and goes all the way to the end as well thats why its (i+1,n) to cover all of the list
+
+as J can choose the last element it doesnt need a second number after it it is the second number. 

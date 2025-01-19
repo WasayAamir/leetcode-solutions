@@ -1,0 +1,7 @@
+similar to missing number, this time its multiple
+
+deffo need to use a set and make the numbers unique in that way, so they are distinct and only appear once
+
+check nums whatever numbers is there remove it from store, 
+
+store = range [1,n] 

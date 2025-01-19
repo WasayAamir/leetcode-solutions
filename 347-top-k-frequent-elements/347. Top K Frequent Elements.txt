@@ -1,0 +1,33 @@
+Return the k most frequent elements, loop over the array probably and see which numbers in the array appear more than once and if they do then store them in a list	
+
+also gotta make with a list with just one element in it and k says 1 it outputs that number in the array 
+
+start the loop count the frequency of the first number in the array and keep updating if it appears again in the list once u encounter it again down the road, 
+
+if you come across a new number in the list start a new frequency list of that number and do the same thing for that till the list ends, in the end compare which K numbers in the
+
+list are the highest and output them 
+
+k will always be in the range 
+
+so count the frequency of the numbers in the list as it goes down the list, count each numbers in the lists frequency then sort them in ascending order, shows which ones appear'
+
+the most 
+
+use bucket sort?
+
+using a hashmap to count the occures of each value 
+
+index = frequency
+
+count backwards from the highest index number 
+
+key is a number from the list
+
+value is how many times it appears in the list
+
+freq = [[], [3], [2], [1]] ---> bucket list where the index they are at represents the frequency, at index 0 means no numbers appears 0 times, index 1 = frequency 1 so 3 appears 
+
+1 time, index 2 = frequency 2 so number 2 appears 2 times and finally index 3 = frequency 3 so number 1 appears 3 times.
+
+The +1 ensures that the freq list has enough buckets to handle the maximum possible frequency of any number, which is len(nums).
