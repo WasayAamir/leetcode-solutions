@@ -1,0 +1,12 @@
+if the tail of the linked list value can go back to a value in the chain that means there is a cycle, use a hashset to determine if you visit a node twice\
+
+why does this work? we start from the head node make our way down and as we visit them we add them to the hashset and once we reach the tail and we go back to the node its going
+
+back to that means we are going to back to a node in the list that we already visited meaning that tells us there is a cycle in this linked list. So if we go back to a node twice 
+
+that's already in the hashset we return true because that shows a cycle.
+
+
+other way is to use two pointers slow and fast starting at the same node (head) slow moves by one node each time and fast moves by two each time. if they eventually end up on 
+
+the same node its a cycle if they dont its not
