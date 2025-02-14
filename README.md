@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/WasayAamir/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/WasayAamir/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/WasayAamir/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/WasayAamir/leetcode-solutions/tree/master/0792-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/WasayAamir/leetcode-solutions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
