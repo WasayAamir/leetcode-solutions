@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/WasayAamir/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/WasayAamir/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -26,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/WasayAamir/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/WasayAamir/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/WasayAamir/leetcode-solutions/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/WasayAamir/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/WasayAamir/leetcode-solutions/tree/master/0792-binary-search) |
 ## Prefix Sum
 |  |
@@ -39,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/WasayAamir/leetcode-solutions/tree/master/0009-palindrome-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/WasayAamir/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
