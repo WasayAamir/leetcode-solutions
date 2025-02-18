@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/WasayAamir/leetcode-solutions/tree/master/0015-3sum) |
 | [0238-product-of-array-except-self](https://github.com/WasayAamir/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/WasayAamir/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/WasayAamir/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0792-binary-search](https://github.com/WasayAamir/leetcode-solutions/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/WasayAamir/leetcode-solutions/tree/master/0015-3sum) |
+## Hash Table
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/WasayAamir/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
