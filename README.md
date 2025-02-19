@@ -49,22 +49,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/WasayAamir/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/WasayAamir/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/WasayAamir/leetcode-solutions/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/WasayAamir/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/WasayAamir/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/WasayAamir/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/WasayAamir/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/WasayAamir/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/WasayAamir/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/WasayAamir/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/WasayAamir/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/WasayAamir/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Queue
 |  |
 | ------- |
