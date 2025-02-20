@@ -9,6 +9,6 @@ class Solution:
                 l = m + 1
             else:                               #else if it greater decrease right by 1
                 r = m - 1
-        if l < len(letters):
-            return letters[l]
-        return letters[0]
+        if l < len(letters):                    #check in the end that left is still in bound of    
+            return letters[l]                   #return the index value wherever l is   
+        return letters[0]                       #in the case nothing is found return index 0 of the array
