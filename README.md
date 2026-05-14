@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/WasayAamir/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/WasayAamir/leetcode-solutions/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/WasayAamir/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/WasayAamir/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/WasayAamir/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Stack
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/WasayAamir/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/WasayAamir/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/WasayAamir/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/WasayAamir/leetcode-solutions/tree/master/0389-find-the-difference) |
