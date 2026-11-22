@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/WasayAamir/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/WasayAamir/leetcode-solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/WasayAamir/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/WasayAamir/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/WasayAamir/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/WasayAamir/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -59,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/WasayAamir/leetcode-solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/WasayAamir/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/WasayAamir/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/WasayAamir/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/WasayAamir/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/WasayAamir/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/WasayAamir/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/WasayAamir/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/WasayAamir/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/WasayAamir/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/WasayAamir/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/WasayAamir/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
